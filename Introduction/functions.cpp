@@ -4,6 +4,7 @@
 #include <cstdio>
 using namespace std;
 
+
 int max_of_four(int a, int b, int c, int d){
     int numbers[4] = {a, b, c, d};
     int max = 0;
